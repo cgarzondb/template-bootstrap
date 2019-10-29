@@ -1,0 +1,26 @@
+body{
+    background: url(../img/5acbe984b11d9_thumb900.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 50%;
+    padding: 0;
+}
+
+.modal-content{
+    background-color: grey;
+    opacity: .80;
+    padding: 0 30px;
+}
+
+.user-img{
+    margin-top: -50px;
+    margin-bottom: 35px;
+}
+
+.user-img img{
+    width: 100px;
+    height: 100px;
+}
